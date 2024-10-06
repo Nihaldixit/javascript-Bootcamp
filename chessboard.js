@@ -1,6 +1,6 @@
 /* 
-prints a chessboard pattern (using ' ' and '#') based on the given value of 
-height and widht.
+prints a chessboard pattern (using ' ' and '#') based on the given 
+value of height and widht.
 */
 
 
